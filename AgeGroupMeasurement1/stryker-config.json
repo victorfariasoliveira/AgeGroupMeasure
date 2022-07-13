@@ -1,0 +1,19 @@
+{
+  "stryker-config": {
+    "reporters": [ "progress", "html", "json" ],
+    "project": "AgeGroupMeasurement.csproj",
+    "test-projects": [
+      "../AgeGroupMeasurementTests/AgeGroupYoungAdultTest.cs"
+    ],
+    "thresholds": {
+      "high": 90,
+      "low": 70,
+      "break": 0
+    },
+    "mutate": [
+      "**/AgeGroupYoungAdult*.cs"
+    ],
+    "ignore-mutations": [],
+    "ignore-methods": [ "ToString", "LogInformation", "LogError", "Append" ]
+  }
+}

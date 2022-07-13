@@ -1,0 +1,12 @@
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\bin\Debug\net6.0\AgeGroupMeasurement1.deps.json
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\bin\Debug\net6.0\AgeGroupMeasurement1.dll
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\bin\Debug\net6.0\AgeGroupMeasurement1.pdb
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\AgeGroupMeasurement1.csproj.AssemblyReference.cache
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\AgeGroupMeasurement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\AgeGroupMeasurement1.AssemblyInfoInputs.cache
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\AgeGroupMeasurement1.AssemblyInfo.cs
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\AgeGroupMeasurement1.csproj.CoreCompileInputs.cache
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\AgeGroupMeasurement1.dll
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\refint\AgeGroupMeasurement1.dll
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\AgeGroupMeasurement1.pdb
+C:\Users\jvfo\Documents\Experimentos\AgeGroupMeasurement1\obj\Debug\net6.0\ref\AgeGroupMeasurement1.dll
